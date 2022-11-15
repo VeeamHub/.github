@@ -1,12 +1,4 @@
-## Hi there 👋
+## VeeamHub Community Projects
+VeeamHub is a place for Veeam enthusiast to share their projects with others in the full spirit of open source.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Important Note:**  All repositories hosted here, along with the code available in them, are not officially associated with Veeam Software Group GmbH or its affiliates (“Veeam”).  Code in these repositories is not developed by Veeam R&D and has not been through the official Veeam QA process.  Veeam is not responsible in any manner for such code and (or) how it works.  The code hosted this site has not been checked by Veeam for malware or other potentially harmful behavior.
